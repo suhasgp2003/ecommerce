@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-(ssvk&x)y-@djo43wt4e^6f$%oegy0qyptb68hu3d^+m$_nkbx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://ecommerce-hida.onrender.com']
+ALLOWED_HOSTS = ['ecommerce-hida.onrender.com']
 
 
 # Application definition
